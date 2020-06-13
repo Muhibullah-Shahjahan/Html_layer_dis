@@ -1,0 +1,121 @@
+.header{
+	background-color: aqua;
+	min-height: 50px;
+	/*width: 99.90%;*/
+	border: 4px solid blue;
+
+}
+
+.wrapper{
+	overflow: hidden;
+	border:4px solid red;
+}
+
+.box1{
+	background-color:blue; 
+	min-height: 400px;
+	width:70%;
+	float:left;
+
+}
+
+.box2{
+	background-color: navy;
+	min-height: 400px;
+	width:30%;
+	float:right;
+}
+
+.footer{
+     background-color: black;
+	 height:50px;
+	 border:4px solid blue;
+
+}
+
+.header1{
+	background-color: aqua;
+	min-height: 50px;
+	/*width: 99.90%;*/
+	border: 4px solid blue;
+
+}
+.container{
+	overflow: hidden;
+	border:4px solid red;
+}
+.b1{
+	background-color:blue; 
+	min-height: 400px;
+	width:33.33%;
+	float:left;
+}
+.b2{
+	background-color:navy; 
+	min-height: 400px;
+	width:33.34%;
+	float:left;
+}
+
+.b3{
+	background-color:tomato; 
+	min-height: 400px;
+	width:33.33%;
+	float:left;
+}
+.footer1{
+	background-color: black;
+	 height:50px;
+	 border:4px solid blue;
+}
+
+.header2{
+   background-color: green;
+   min-height: 40px;
+   width: 100%;
+}
+
+.wrapper2{
+	overflow: hidden;
+
+}
+.c1{
+	width: 20%;
+	min-height: 400px;
+ 	float: left;
+ 	background-color: gray;
+
+}
+	
+.c2{
+	width: 20%;
+	min-height: 400px;
+ 	float: left;
+ 	background-color: blue; 
+}
+	
+.c3{
+	width: 20%;
+	min-height: 400px;
+ 	float: left;
+ 	background-color: yellow; 
+}
+	
+.c4{
+	width: 20%;
+	min-height: 400px;
+ 	float: left;
+ 	background-color: white;
+}
+	
+.c5{
+	width: 20%;
+	min-height: 400px;
+ 	float: left;
+ 	background-color: orange;
+}
+.footer2{
+	 width: 100%;
+	 min-height: 40px;
+	background-color: black;
+}
